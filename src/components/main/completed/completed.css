@@ -1,0 +1,11 @@
+.todo.completed {
+    box-shadow: 5px 5px 13px 0px rgba(48, 54, 64, 0.90) inset, -5px -5px 10px 0px rgba(64, 74, 86, 0.90) inset, 5px -5px 10px 0px rgba(48, 54, 64, 0.20) inset, -5px 5px 10px 0px rgba(48, 54, 64, 0.20) inset!important;
+    text-decoration: line-through;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h2{
+    color:#94ADCF!important;
+}
+

@@ -1,0 +1,18 @@
+
+.addBtn{
+    width: 60px!important;
+    height: 60px!important;
+    background-color: #38404B!important;
+    color:#94ADCF !important;
+    border-radius: 50% !important;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    padding: 0;
+    margin-left: 1rem;
+   
+}
+.btnContainer{
+    position: absolute;
+    bottom: 50px;
+    right: 0;
+    width: 100%;
+}
